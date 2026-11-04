@@ -31,7 +31,7 @@ PRIVACY
 - We do not sell your data and do not build advertising profiles.
 - The search text is used only to choose the suggestion and is not stored by our server.
 - Service providers used: Render (hosting) and Hugging Face (text-similarity scoring when there is no direct keyword match).
-- Full policy: https://github.com/omoxofashion-stack/omoxofashion-docs-policy.git/
+- Full policy: https://omoxofashion-stack.github.io/omoxofashion-docs-policy/privacy-policy.html
 
 DISCLOSURE
 This extension displays sponsored content for omoxofashion's own products. Contact: info@omoxofashion.co.in
